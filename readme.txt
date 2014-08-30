@@ -1,4 +1,4 @@
 version 2:
 Hello World!
 
-This is a test! in master branch.
+This is a merge test! in master branch.
